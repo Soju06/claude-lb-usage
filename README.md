@@ -66,7 +66,7 @@ Resets Sep 11, 2:13pm (KST)
 
 ## 하단 상태줄 표시
 
-플러그인 명령과 함께 남은 한도를 Claude Code 하단에 계속 표시하려면 터미널에서 다음을 실행하세요. Python 3.11 이상이 필요합니다.
+플러그인 명령과 함께 남은 한도를 Claude Code 하단에 계속 표시하려면 터미널에서 다음을 실행하세요. Python 3.10 이상이 필요합니다.
 
 ```bash
 git clone https://github.com/tokmaxxing/claude-lb-usage.git
